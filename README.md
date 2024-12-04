@@ -30,7 +30,7 @@
 <br>
 
  <div>
- <h2>Estatisticas</h2>
+ <h2>Estatísticas</h2>
   
   <a href ="https://github.com/Jefferson-Matheus">
   <img height="180em" 
