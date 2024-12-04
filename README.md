@@ -43,7 +43,7 @@
 <div>
  <h2>Contatos</h2>
 
- <a href="www.linkedin.com/in/dev-jefferson-ferreira"> 
+ <a href="https://www.linkedin.com/in/dev-jefferson-ferreira"> 
    <img width="125px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   <a/>
 
