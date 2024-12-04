@@ -41,13 +41,9 @@
 <br>
 
 <div>
- <h2>Contatos</h2>
+ <h2>Contate-me</h2>
 
  <a href="https://www.linkedin.com/in/dev-jefferson-ferreira"> 
    <img width="125px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  <a/>
-
-   <a href="mailto:jeffersonmatheusu@gmail.com"> 
-   <img width="100px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   <a/>
 </div>
