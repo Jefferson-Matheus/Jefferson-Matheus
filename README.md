@@ -7,7 +7,7 @@
 ---
 
 <div align="left">
- <h2>Tecnologias e Ferramentas com as Quais Tenho Mais Familiaridade</h2>
+ <h2>Tecnologias de Atuação</h2>
 
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
@@ -21,7 +21,7 @@
 <br>
 
 <div align="left">
- <h2>Tecnologias e Ferramentas com as Quais Tenho Menos Familiaridade</h2>
+ <h2>Tecnologias em Aprendizado</h2>
 
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
@@ -37,4 +37,17 @@
    src ="https://github-readme-stats.vercel.app/api?username=Jefferson-Matheus&show_icons=true&theme=tokyonight&include_all_commits=true&count_public=true"
    /> 
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jefferson-Matheus&langs_count=8&theme=tokyonight" />
+</div>
+<br>
+
+<div>
+ <h2>Contatos</h2>
+
+ <a href="www.linkedin.com/in/dev-jefferson-ferreira"> 
+   <img width="125px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a/>
+
+   <a href="jeffersonmatheusu@gmail.com"> 
+   <img width="100px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a/>
 </div>
